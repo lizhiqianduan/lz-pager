@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>lz-pager</title>
+</head>
+<body>
+
+<style>
+    /*li{float: left;}*/
+    li.active a{
+        color:red;
+    }
+</style>
+<ul id="lzPager">
+
+</ul>
+
+
+<script src="lz-pager.js"></script>
+
+<script>
+
+    function getPage(page){
+        var vm = {
+            curPage:page,
+            totalNum:666,
+            pageSize:22,
+            pageOnClickFn:'getPage'
+        };
+        var inhtml = lzPager(vm);
+        document.getElementById("lzPager").innerHTML = inhtml;
+
+        /*
+        * 一般情况，这之后会根据页号page，页面大小pageSize等参数来向后台请求数据，之后再来填充列表
+        * 
+        * */
+    }
+
+//    初始化
+    getPage(1);
+
+
+
+</script>
+
+
+</body>
+</html>

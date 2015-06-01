@@ -1,0 +1,64 @@
+{
+	"code": 0,
+	"msg": "成功",
+	"data": {
+		"total": 14,
+		"totalPage": 2,
+		"list": [{
+			"amount": 81078,
+			"shopName": "田园山水",
+			"quantity": 54,
+			"productName": "有机圆白菜",
+			"productId": 7
+		},
+		{
+			"amount": 12040,
+			"shopName": "田园山水",
+			"quantity": 7,
+			"productName": "有机小白菜",
+			"productId": 8
+		},
+		{
+			"amount": 33660,
+			"shopName": "田园山水",
+			"quantity": 17,
+			"productName": "有机紫薯",
+			"productId": 9
+		},
+		{
+			"amount": 3478,
+			"shopName": "田园山水",
+			"quantity": 2,
+			"productName": "有机大黄瓜",
+			"productId": 11
+		},
+		{
+			"amount": 2400,
+			"shopName": "田园山水",
+			"quantity": 1,
+			"productName": "有机冬瓜",
+			"productId": 12
+		},
+		{
+			"amount": 7756,
+			"shopName": "田园山水",
+			"quantity": 4,
+			"productName": "有机尖椒",
+			"productId": 13
+		},
+		{
+			"amount": 2600,
+			"shopName": "田园山水",
+			"quantity": 1,
+			"productName": "有机迷你南瓜",
+			"productId": 14
+		},
+		{
+			"amount": 1600,
+			"shopName": "田园山水",
+			"quantity": 1,
+			"productName": "有机奶白菜",
+			"productId": 18
+		}]
+	}
+}
