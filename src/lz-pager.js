@@ -1,9 +1,11 @@
 /*
 create by xiaohei on 2015/6/1
 
+我的个人网站：http://www.lizhiqianduan.com
+
+项目地址：https://github.com/lizhiqianduan/lz-pager
+
 */
-
-
 
 
 /*
