@@ -1,0 +1,30 @@
+{
+  "name": "lz-pager",
+  "version": "0.0.0",
+  "description": "ajax pagination",
+  "main": "GruntFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizhiqianduan/lz-pager.git"
+  },
+  "keywords": [
+    "ajax",
+    "pagination",
+    "pager",
+    "lizhiqianduan"
+  ],
+  "author": "xiaohei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhiqianduan/lz-pager/issues"
+  },
+  "homepage": "https://github.com/lizhiqianduan/lz-pager",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
